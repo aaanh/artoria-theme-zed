@@ -7,4 +7,4 @@ Four themes built from the colors of Artoria Pendragon (Caster) and Akiyama Mizu
 - Akiyama Mizuki (ProSeka) - Dark
 - Akiyama Mizuki (ProSeka) - Light
 
-Generated from the VS Code extension (1.0.0) by `scripts/export-platforms.js`. Do not edit by hand.
+Made by Anh Nguyen <anhnguyen@aaanh.com>. Generated from the VS Code extension (1.0.0) by `scripts/export-platforms.js`. Do not edit by hand.
